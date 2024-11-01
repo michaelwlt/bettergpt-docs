@@ -1,20 +1,20 @@
-export const url = "https://rubix-documents.vercel.app";
+export const url = "https://docs.bettergpt.lol";
 export const siteicon = "/icon.png";
 
 export const gtm = "GTM-XXXXXXX";
-export const gtmconnected = true;
+export const gtmconnected = false;
 
-export const sitename = "Documents";
-export const description = "This comprehensive documentation template, crafted with Next.js and available as open-source, delivers a sleek and responsive design, tailored to meet all your project documentation requirements.";
+export const sitename = "BetterGPT's Documentation";
+export const description = "The official documentation for bettergpt.lol";
 export const keywords = ["Next.js", "documentation", "Rubix Studios", "open source", "SEO"];
 export const urlimage = "/images/og-image.png";
-export const imagealt = "Rubix Studios Documentation";
-export const twitterhandle = "@RubixStudios";
+export const imagealt = "BetterGPT's Documentation";
+export const twitterhandle = "";
 
-export const companyname = "Rubix Studios";
-export const companylink = "https://www.rubixstudios.com.au";
+export const companyname = "BetterGPT";
+export const companylink = "https://bettergpt.lol";
 
-export const branding = true;
+export const branding = false;
 export const rightsidebar = true;
 export const feedbackedit = true;
 export const tableofcontent = true;
