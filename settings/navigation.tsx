@@ -6,6 +6,11 @@ export const Navigations = [
     href: `/docs${PageRoutes[0].href}`,
   },
   {
+    title: "Status Page",
+    href: "https://stats.uptimerobot.com/MgzZgSuQLY",
+    external: true,
+  },
+  {
     title: "Home",
     href: "https://bettergpt.lol",
     external: true,

@@ -18,6 +18,6 @@ export const branding = false;
 export const rightsidebar = true;
 export const feedbackedit = true;
 export const tableofcontent = true;
-export const totopscroll = true;
+export const totopscroll = false;
 
 export const loadfromgithub = false;
