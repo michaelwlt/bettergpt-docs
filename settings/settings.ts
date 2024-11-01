@@ -6,7 +6,7 @@ export const gtmconnected = false;
 
 export const sitename = "BetterGPT's Documentation";
 export const description = "The official documentation for bettergpt.lol";
-export const keywords = ["Next.js", "documentation", "Rubix Studios", "open source", "SEO"];
+export const keywords = ["bettergpt", "openai", "google gemini", "bettergpt documentation", "free chatgpt"];
 export const urlimage = "/images/og-image.png";
 export const imagealt = "BetterGPT's Documentation";
 export const twitterhandle = "";
